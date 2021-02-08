@@ -1,0 +1,58 @@
+*{
+    padding:0;
+	margin:0;
+}
+@font-face{
+	font-family:lego;
+	src: url('lego.ttf');
+}
+body{
+	background-image: url('ozadje.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#naslov{
+	margin-top:15px;
+	font-size:29px;
+	text-align: center;
+	min-height:25px;
+	font-family:lego;
+}
+
+
+
+#polje{
+	width:500px;
+	height:500px;
+	margin:0 auto;
+	margin-top:10px;
+	background-image: linear-gradient(red, yellow);
+}
+
+#tocke{
+	text-align:center;
+	top:14px;
+	left:490px;
+	font-size:25px;
+	font-family:lego;
+	text-decoration:none;
+}
+#casovnik{
+	
+	top:14px;
+	left:1100px;
+	font-size:25px;
+	font-family:lego;
+	text-decoration:none;
+	
+p{
+	font-family:lego;
+	
+}
+
+
+
+
+
+
